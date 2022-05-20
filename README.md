@@ -1,2 +1,2 @@
 # indexreorder
-Umsortierung von Index-Files
+Ein einfaches Script zum Umsortierung von Index-Files (siehe Index-Projekt)
