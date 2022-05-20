@@ -1,0 +1,2 @@
+baptism=example_b.txt
+marriage=example_m.txt
